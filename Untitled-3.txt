@@ -1,0 +1,6 @@
+<!doctype .x'T.(m.l(.E.)")'"."!§!//: ->
+-> screen . "image.clean.format.jpeg."20 x.
+-> display . "image.show"
+-> message . "E.image.show"
+-> end . "process.complete"
+-> save . "image.save.format.jpeg"
